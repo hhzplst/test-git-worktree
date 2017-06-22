@@ -10,4 +10,13 @@ public class People {
 	public getFirstname() {
 		return firstName;
 	}
+
+	
+	public setAge(int age) {
+		this.age = age;
+	}
+
+	public getAge() {
+		return age;
+	}
 }
