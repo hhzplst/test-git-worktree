@@ -9,4 +9,8 @@ public class People {
 	public getFirstname() {
 		return firstName;
 	}
+
+	public void sayHello() {
+		System.out.println("hi");
+	}
 }
